@@ -1,3 +1,4 @@
+langgenius/qdrant:v1.7.3
 nginx
 node:22-alpine
 #支持私库
