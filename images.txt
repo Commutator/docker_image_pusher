@@ -13,7 +13,6 @@ container-registry.oracle.com/database/free:latest
 oceanbase/oceanbase-ce:4.3.5-lts
 ghcr.io/chroma-core/chroma:0.5.20
 tensorchord/pgvecto-rs:pg16-v0.3.0
-vastdata/vastbase-vector
 pgvector/pgvector:pg16
 semitechnologies/weaviate:1.19.0
 certbot/certbot
